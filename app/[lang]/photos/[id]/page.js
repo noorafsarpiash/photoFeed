@@ -1,4 +1,4 @@
-import PhotoDetails from "@/app/components/photoDetails"
+import PhotoDetails from "@/components/PhotoDetails"
 const PhotoDetailsPage = ({params: {id, lang}}) => {
 
     return (
